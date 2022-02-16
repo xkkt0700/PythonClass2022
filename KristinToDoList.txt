@@ -1,0 +1,6 @@
+Task,Priority
+Run,1
+Banking,3
+Homework,2
+Carpet Cleaning,10
+Watch TV,100
